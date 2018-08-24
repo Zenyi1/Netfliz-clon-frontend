@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(4, 99, 25, 0.938);
+}
+
+.center-form{
+    margin-top: 60px;
+}
+
+.centered-form .panel{
+    background: linear-gradient(135deg, #ebf1f6 0%,#abd3ee 50%,#89c3eb 51%,#d5ebfb 100%);
+    box-shadow: rgb(22, 18, 20) 20px 20px 20px;
+}
